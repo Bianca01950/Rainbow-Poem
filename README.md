@@ -1,10 +1,4 @@
-# Rainbow-Poem
-Repo for my poem
+# Portfolio
+Repo for my portfolio
 
-The Rainbow
-Red
-Yellow
-Orange
-Blue 
-Purple
-Green
+This is a portfolio piece by Bianca Romero
