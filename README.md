@@ -1,4 +1,5 @@
 # Portfolio
 Repo for my portfolio
 
-This is a portfolio piece by Bianca Romero
+This is a portfolio piece 
+By Bianca Romero
